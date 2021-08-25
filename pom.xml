@@ -67,7 +67,7 @@
         <html2pdf.version>3.0.3</html2pdf.version>
         <pdfbox.version>2.0.24</pdfbox.version>
         <itext.version>7.1.14</itext.version>
-        <xstream.version>1.4.17</xstream.version>
+        <xstream.version>1.4.18</xstream.version>
         <mapstruct.version>1.4.1.Final</mapstruct.version>
         <lombok.version>1.18.8</lombok.version>
         <userAgent.version>1.21</userAgent.version>
